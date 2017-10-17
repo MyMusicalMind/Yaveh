@@ -20,5 +20,5 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <p>Faixas: </p>
 <p>1. Acautelai-vos | <a href="https://www.youtube.com/watch?v=dwwTLqthVdw&index=3&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
 <p>2. Não Temo | <a href="https://www.youtube.com/watch?v=sNj5Lx0ez_k&index=2&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
-<p>3. Os versos de Daniel | a href="https://www.youtube.com/watch?v=T2NxfuUBpZs&index=1&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
+<p>3. Os versos de Daniel | <a href="https://www.youtube.com/watch?v=T2NxfuUBpZs&index=1&list=UUkaEQ4S6wiK-lWtjFEWEeCg">no youtube</a></p>
 
